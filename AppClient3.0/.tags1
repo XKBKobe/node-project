@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+constructor	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  constructor(props) {$/;"	function	line:15
+state.starts	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^    this.state = {$/;"	property	line:17
+renderStartView	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  renderStartView() {$/;"	function	line:31
+headerRightRender	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  headerRightRender() {$/;"	function	line:48
+changeComponent	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  changeComponent(change) {$/;"	function	line:56
+addGoodsImg	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  addGoodsImg() {$/;"	function	line:60
+getGoodsImg	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  getGoodsImg(files) {$/;"	function	line:72
+setState.goodsImgs	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^    this.setState = {$/;"	property	line:75
+delGoodsImg	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  delGoodsImg(index) {$/;"	function	line:80
+renderGoodsImgView	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  renderGoodsImgView() {$/;"	function	line:87
+hasDataRender	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  hasDataRender() {$/;"	function	line:130
+render	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  render () {$/;"	function	line:159
+render.isHeaderShow	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^		let headerParam = {$/;"	property	line:163
+render.headerName	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^      isHeaderShow: true,$/;"	property	line:164
+render.isBackShow	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^      headerName: '评价晒单',$/;"	property	line:165
+let.isRequesting	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^    let netRequestParam = {$/;"	property	line:168
+let.isDataRequestSucc	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^      isRequesting: false,$/;"	property	line:169
+let.hasData	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^      isDataRequestSucc: true,$/;"	property	line:170
+mapStateToProps	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^function mapStateToProps(state){$/;"	function	line:183
+mapStateToProps	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^function mapStateToProps(state){$/;"	function	line:183
+mapDispatchToProps	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^function mapDispatchToProps(dispatch){$/;"	function	line:190
+mapDispatchToProps	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^function mapDispatchToProps(dispatch){$/;"	function	line:190

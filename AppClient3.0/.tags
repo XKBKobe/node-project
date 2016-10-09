@@ -1,0 +1,244 @@
+constructor	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrder.js	/^	constructor(props) {$/;"	function	line:11
+goBack	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrder.js	/^	goBack(){$/;"	function	line:16
+render	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrder.js	/^	render () {$/;"	function	line:20
+getValue	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrder.js	/^function getValue(state){$/;"	function	line:34
+getValue	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrder.js	/^function getValue(state){$/;"	function	line:34
+changeOrderState	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrder.js	/^function changeOrderState(dispatch){$/;"	function	line:41
+changeOrderState	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrder.js	/^function changeOrderState(dispatch){$/;"	function	line:41
+constructor	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrderContainer.js	/^  constructor(props) {$/;"	function	line:9
+btnBar	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrderContainer.js	/^  btnBar (selected) {$/;"	function	line:14
+render	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrderContainer.js	/^	render (){$/;"	function	line:29
+render	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrderContainer.js	/^	render (){$/;"	function	line:40
+constructor	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrderContainer.js	/^  constructor(props) {$/;"	function	line:61
+renderGoodsList	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrderContainer.js	/^	renderGoodsList(orderData){$/;"	function	line:66
+render	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrderContainer.js	/^	render(){$/;"	function	line:81
+render	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrderContainer.js	/^	render () {$/;"	function	line:92
+render	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrderContainer.js	/^	render () {$/;"	function	line:104
+goodsList	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrderContainer.js	/^	goodsList(goodsData,orderData){$/;"	function	line:137
+render	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrderContainer.js	/^	render (){$/;"	function	line:146
+render	/Users/holley/AppClient3.0/h5/containers/user/myOrders/MyOrderContainer.js	/^	render (){$/;"	function	line:156
+styles.scrollView	/Users/holley/AppClient3.0/h5/styles/user/collectGoodsStyle.js	/^var styles = {$/;"	property	line:3
+styles.container	/Users/holley/AppClient3.0/h5/styles/settingStyle.js	/^var styles = {$/;"	property	line:1
+homePressDown	/Users/holley/AppClient3.0/common/actions/tabAction.js	/^export function homePressDown() {$/;"	function	line:8
+shopPressDown	/Users/holley/AppClient3.0/common/actions/tabAction.js	/^export function shopPressDown() {$/;"	function	line:17
+classifyPressDown	/Users/holley/AppClient3.0/common/actions/tabAction.js	/^export function classifyPressDown() {$/;"	function	line:25
+settingPressDown	/Users/holley/AppClient3.0/common/actions/tabAction.js	/^export function settingPressDown() {$/;"	function	line:33
+import.homeTabimg	/Users/holley/AppClient3.0/common/reducers/tabReducer.js	/^const initialState = {$/;"	property	line:7
+import.classifyTabimg	/Users/holley/AppClient3.0/common/reducers/tabReducer.js	/^  homeTabimg: "common\/images\/ic_tb_Homed@2x.png",$/;"	property	line:8
+import.shopTabimg	/Users/holley/AppClient3.0/common/reducers/tabReducer.js	/^  classifyTabimg: "common\/images\/ic_tb_Cate@2x.png",$/;"	property	line:9
+import.setTabimg	/Users/holley/AppClient3.0/common/reducers/tabReducer.js	/^  shopTabimg: "common\/images\/ic_tb_Cart@2x.png",$/;"	property	line:10
+update	/Users/holley/AppClient3.0/common/reducers/tabReducer.js	/^export default function update(state = initialState, action) {$/;"	function	line:14
+switch	/Users/holley/AppClient3.0/common/reducers/tabReducer.js	/^	switch(action.type) {$/;"	function	line:15
+constructor	/Users/holley/AppClient3.0/h5/containers/App.js	/^  constructor(props){$/;"	function	line:12
+handleTabClick	/Users/holley/AppClient3.0/h5/containers/App.js	/^  handleTabClick(place) {$/;"	function	line:17
+switch	/Users/holley/AppClient3.0/h5/containers/App.js	/^    switch(place) {$/;"	function	line:18
+render	/Users/holley/AppClient3.0/h5/containers/App.js	/^  render() {$/;"	function	line:38
+select	/Users/holley/AppClient3.0/h5/containers/App.js	/^function select(store, action) {$/;"	function	line:69
+select	/Users/holley/AppClient3.0/h5/containers/App.js	/^function select(store, action) {$/;"	function	line:69
+mapDispatchToProps	/Users/holley/AppClient3.0/h5/containers/App.js	/^function mapDispatchToProps(dispatch) {$/;"	function	line:78
+mapDispatchToProps	/Users/holley/AppClient3.0/h5/containers/App.js	/^function mapDispatchToProps(dispatch) {$/;"	function	line:78
+styles.tab	/Users/holley/AppClient3.0/h5/styles/tabStyle.js	/^var styles = {$/;"	property	line:2
+styles.navColumn_D	/Users/holley/AppClient3.0/h5/styles/navigatorBarStyle.js	/^var styles = {$/;"	property	line:5
+styles.container	/Users/holley/AppClient3.0/h5/styles/user/orderStyle.js	/^var styles = {$/;"	property	line:3
+styles.scrollView	/Users/holley/AppClient3.0/h5/styles/classifyStyles.js	/^var styles = {$/;"	property	line:1
+constructor	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^	constructor(props) {$/;"	function	line:15
+componentDidMount	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^	componentDidMount() {$/;"	function	line:24
+renderTypesList	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^	renderTypesList (typeData) {$/;"	function	line:29
+renderBrandsList	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^	renderBrandsList (brandsData) {$/;"	function	line:39
+renderGlobalList	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^	renderGlobalList (countries) {$/;"	function	line:53
+hasDataRender	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^	hasDataRender() {$/;"	function	line:70
+render	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^	render () {$/;"	function	line:104
+headerParam.isHeaderShow	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^		var headerParam = {$/;"	property	line:106
+headerParam.headerName	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^      isHeaderShow: false,$/;"	property	line:107
+headerParam.isBackShow	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^      headerName: '分类',$/;"	property	line:108
+netRequestParam.isRequesting	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^    var netRequestParam = {$/;"	property	line:111
+constructor	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^	constructor(props) {$/;"	function	line:135
+renderTypeList	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^	renderTypeList (typesData) {$/;"	function	line:140
+render	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^	render () {$/;"	function	line:156
+mapStateToProps	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^function mapStateToProps(state){$/;"	function	line:173
+mapStateToProps	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^function mapStateToProps(state){$/;"	function	line:173
+mapDispatchToProps	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^function mapDispatchToProps(dispatch){$/;"	function	line:180
+mapDispatchToProps	/Users/holley/AppClient3.0/h5/containers/Classify.js	/^function mapDispatchToProps(dispatch){$/;"	function	line:180
+styles.scrollView	/Users/holley/AppClient3.0/h5/styles/goodsDetailStyle.js	/^ var styles = {$/;"	property	line:5
+constructor	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^  constructor(props) {$/;"	function	line:13
+state.goodsId	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^    this.state = {$/;"	property	line:16
+state.isRenderToastView	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^      goodsId : null,$/;"	property	line:17
+state.toastState	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^      isRenderToastView : false,$/;"	property	line:18
+state.setSwiper	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^      toastState : 0,$/;"	property	line:19
+componentDidUpdate	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^  componentDidUpdate(){$/;"	function	line:32
+componentDidMount	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^  componentDidMount() {$/;"	function	line:48
+componentDidMount.goodsId	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^    let queryGoodsDataParameter = {$/;"	property	line:49
+headerRightRender	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^  headerRightRender() {$/;"	function	line:58
+pushItemToCartAction	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^  pushItemToCartAction(goodId) {$/;"	function	line:66
+directMinusPaid	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^  directMinusPaid(goodId) {$/;"	function	line:75
+let.goodsId	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^    let parameter = {$/;"	property	line:82
+let.amount	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^      goodsId : goodId,$/;"	property	line:83
+directPlusPaid	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^  directPlusPaid(goodId) {$/;"	function	line:88
+let.goodsId	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^    let parameter = {$/;"	property	line:92
+let.amount	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^      goodsId : goodId,$/;"	property	line:93
+renderActivityCell	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^  renderActivityCell(activityData) {$/;"	function	line:99
+renderShippingFeeCell	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^  renderShippingFeeCell(shippingFee) {$/;"	function	line:114
+renderToast	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^  renderToast() {$/;"	function	line:139
+closeDirectPaid	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^  closeDirectPaid() {$/;"	function	line:241
+renderGoodsBanners	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^  renderGoodsBanners(imgs) {$/;"	function	line:246
+hasDataRender	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^  hasDataRender() {$/;"	function	line:254
+render	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^  render () {$/;"	function	line:349
+headerParam.isHeaderShow	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^    var headerParam = {$/;"	property	line:351
+headerParam.headerName	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^      isHeaderShow: true,$/;"	property	line:352
+headerParam.isBackShow	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^      headerName: '我的订单',$/;"	property	line:353
+netRequestParam.isRequesting	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^    var netRequestParam = {$/;"	property	line:356
+mapStateToProps	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^function mapStateToProps(state){$/;"	function	line:369
+mapStateToProps	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^function mapStateToProps(state){$/;"	function	line:369
+mapDispatchToProps	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^function mapDispatchToProps(dispatch){$/;"	function	line:377
+mapDispatchToProps	/Users/holley/AppClient3.0/h5/containers/GoodsDetail.js	/^function mapDispatchToProps(dispatch){$/;"	function	line:377
+const.dataRequesting	/Users/holley/AppClient3.0/common/reducers/GoodsDetailReducer.js	/^const goodsDetailData = {$/;"	property	line:4
+const.isDataRequestSucc	/Users/holley/AppClient3.0/common/reducers/GoodsDetailReducer.js	/^  dataRequesting: true,$/;"	property	line:5
+const.goodsDetailData	/Users/holley/AppClient3.0/common/reducers/GoodsDetailReducer.js	/^  isDataRequestSucc: false,$/;"	property	line:6
+const.cartCount	/Users/holley/AppClient3.0/common/reducers/GoodsDetailReducer.js	/^  goodsDetailData : null,$/;"	property	line:7
+const.pushItemToCart	/Users/holley/AppClient3.0/common/reducers/GoodsDetailReducer.js	/^  cartCount : null,$/;"	property	line:8
+GoodsDetailReducer	/Users/holley/AppClient3.0/common/reducers/GoodsDetailReducer.js	/^export default function GoodsDetailReducer(state = goodsDetailData, action) {$/;"	function	line:13
+switch	/Users/holley/AppClient3.0/common/reducers/GoodsDetailReducer.js	/^  switch(action.type) {$/;"	function	line:15
+queryGoodsDetailData	/Users/holley/AppClient3.0/common/actions/GoodsDetailActions.js	/^export function queryGoodsDetailData(parameter) {$/;"	function	line:5
+gotGoodsDetailData	/Users/holley/AppClient3.0/common/actions/GoodsDetailActions.js	/^function gotGoodsDetailData(data) {$/;"	function	line:16
+gotGoodsDetailData	/Users/holley/AppClient3.0/common/actions/GoodsDetailActions.js	/^function gotGoodsDetailData(data) {$/;"	function	line:16
+queryCartCount	/Users/holley/AppClient3.0/common/actions/GoodsDetailActions.js	/^export function queryCartCount() {$/;"	function	line:23
+gotCartCount	/Users/holley/AppClient3.0/common/actions/GoodsDetailActions.js	/^function gotCartCount(data) {$/;"	function	line:34
+gotCartCount	/Users/holley/AppClient3.0/common/actions/GoodsDetailActions.js	/^function gotCartCount(data) {$/;"	function	line:34
+queryPushItemToCart	/Users/holley/AppClient3.0/common/actions/GoodsDetailActions.js	/^export function queryPushItemToCart(parameter) {$/;"	function	line:41
+gotPushItemToCart	/Users/holley/AppClient3.0/common/actions/GoodsDetailActions.js	/^function gotPushItemToCart(data) {$/;"	function	line:51
+gotPushItemToCart	/Users/holley/AppClient3.0/common/actions/GoodsDetailActions.js	/^function gotPushItemToCart(data) {$/;"	function	line:51
+queryDirectchange	/Users/holley/AppClient3.0/common/actions/GoodsDetailActions.js	/^export function queryDirectchange(parameter) {$/;"	function	line:58
+gotDirectchange	/Users/holley/AppClient3.0/common/actions/GoodsDetailActions.js	/^function gotDirectchange(data) {$/;"	function	line:71
+gotDirectchange	/Users/holley/AppClient3.0/common/actions/GoodsDetailActions.js	/^function gotDirectchange(data) {$/;"	function	line:71
+add0	/Users/holley/workspace/AppClient3.0/common/config/Tools.js	/^export function add0(m){return m<10?'0'+m:m }$/;"	function	line:2
+getLocalTime	/Users/holley/workspace/AppClient3.0/common/config/Tools.js	/^export function getLocalTime(nS) {$/;"	function	line:3
+getOrderStatus	/Users/holley/workspace/AppClient3.0/common/config/Tools.js	/^export function getOrderStatus(statusId) {$/;"	function	line:14
+switch	/Users/holley/workspace/AppClient3.0/common/config/Tools.js	/^  switch (statusId) {$/;"	function	line:15
+unique	/Users/holley/workspace/AppClient3.0/common/config/Tools.js	/^export function unique(arr) {$/;"	function	line:33
+getCountdown	/Users/holley/workspace/AppClient3.0/common/config/Tools.js	/^export function getCountdown(nS,type) {$/;"	function	line:46
+getCountdownTimestamp	/Users/holley/workspace/AppClient3.0/common/config/Tools.js	/^export function getCountdownTimestamp(nS,type) {$/;"	function	line:62
+isObjectValueEqual	/Users/holley/workspace/AppClient3.0/common/config/Tools.js	/^export function isObjectValueEqual(a, b) {$/;"	function	line:81
+queryUserOrderData	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^export function queryUserOrderData(handleId,page,cancel) {$/;"	function	line:5
+let.condition	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^  let parameter = {$/;"	property	line:8
+let.page	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^    condition : handleId,$/;"	property	line:9
+let.perPage	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^    page : page,$/;"	property	line:10
+gotUserOrderData	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^function gotUserOrderData(data,handleId,cancel) {$/;"	function	line:22
+gotUserOrderData	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^function gotUserOrderData(data,handleId,cancel) {$/;"	function	line:22
+queryCancelOrder	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^export function queryCancelOrder(handleId,orderId) {$/;"	function	line:32
+export.orderId	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^  let parameter = {$/;"	property	line:33
+queryCancelOrder_detail	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^export function queryCancelOrder_detail(orderId) {$/;"	function	line:49
+export.orderId	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^  let parameter = {$/;"	property	line:50
+queryDeleteOrder	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^export function queryDeleteOrder(handleId,orderId) {$/;"	function	line:69
+export.orderId	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^  let parameter = {$/;"	property	line:70
+queryDeleteOrder_detail	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^export function queryDeleteOrder_detail(orderId) {$/;"	function	line:86
+export.orderId	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^  let parameter = {$/;"	property	line:87
+queryConfirmOrder	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^export function queryConfirmOrder(handleId,orderId) {$/;"	function	line:106
+export.orderId	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^  let parameter = {$/;"	property	line:107
+queryConfirmOrder_detail	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^export function queryConfirmOrder_detail(orderId) {$/;"	function	line:123
+export.orderId	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^  let parameter = {$/;"	property	line:124
+queryUserOrderCommentList	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^export function queryUserOrderCommentList(orderId) {$/;"	function	line:143
+export.orderId	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^  let parameter = {$/;"	property	line:144
+gotUserOrderCommentList	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^function gotUserOrderCommentList(data) {$/;"	function	line:161
+gotUserOrderCommentList	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^function gotUserOrderCommentList(data) {$/;"	function	line:161
+querySubmitCommentMessage	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^export function querySubmitCommentMessage() {$/;"	function	line:169
+queryUserOrderDetailData	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^export function queryUserOrderDetailData(parameter) {$/;"	function	line:189
+gotUserOrderDetailData	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^function gotUserOrderDetailData(data) {$/;"	function	line:200
+gotUserOrderDetailData	/Users/holley/workspace/AppClient3.0/common/actions/User_OrderActions.js	/^function gotUserOrderDetailData(data) {$/;"	function	line:200
+constructor	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	constructor(props) {$/;"	function	line:15
+state.isLoadmore	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^		this.state = {$/;"	property	line:18
+state.currentPage	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^			isLoadmore : true,\/\/是否加载更多$/;"	property	line:19
+state.totalPage	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^			currentPage : 1,$/;"	property	line:20
+state.is_require	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^			totalPage : 1,$/;"	property	line:21
+componentDidMount	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	componentDidMount() {$/;"	function	line:51
+renderSegmentBar	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	renderSegmentBar(selected) {$/;"	function	line:60
+renderCollectBtn	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^  renderCollectBtn(title,selected,index) {$/;"	function	line:68
+btnBarAction	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^  btnBarAction (selected) {$/;"	function	line:86
+renderOrderListView	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	renderOrderListView(orderData) {$/;"	function	line:106
+renderOrderList	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	renderOrderList(orderData){$/;"	function	line:114
+renderOrderHeaderCell	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^  renderOrderHeaderCell(data) {$/;"	function	line:128
+cancelOrderAction	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	cancelOrderAction(orderId,index) {$/;"	function	line:139
+deleteOrderAction	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	deleteOrderAction(orderId) {$/;"	function	line:143
+confirmOrderAction	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	confirmOrderAction(orderId) {$/;"	function	line:147
+renderOrderFooterCell	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^  renderOrderFooterCell(orderData,index) {$/;"	function	line:151
+renderOrderFooterBtn	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^  renderOrderFooterBtn(orderData,index) {$/;"	function	line:162
+switch	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^    switch (orderData.order_status_id) {$/;"	function	line:163
+renderGoodsListView	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^  renderGoodsListView(data) {$/;"	function	line:222
+renderGoodsList	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^  renderGoodsList(goodsData){$/;"	function	line:230
+confirmPay	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	confirmPay() {$/;"	function	line:248
+renderPaidView	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	renderPaidView() {$/;"	function	line:258
+chooseAlipayHandle	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	chooseAlipayHandle() {$/;"	function	line:289
+chooseWechatHandle	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	chooseWechatHandle() {$/;"	function	line:296
+unique	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	unique(arr) {$/;"	function	line:304
+loadMoreData	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	loadMoreData() {$/;"	function	line:315
+hasDataRender	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	hasDataRender() {$/;"	function	line:331
+noDataRender	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	noDataRender() {$/;"	function	line:364
+repeatLoadData	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	repeatLoadData(selected) {$/;"	function	line:373
+render	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^	render () {$/;"	function	line:381
+let.isHeaderShow	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^		let headerParam = {$/;"	property	line:385
+let.headerName	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^      isHeaderShow: true,$/;"	property	line:386
+let.isBackShow	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^      headerName: '我的订单',$/;"	property	line:387
+let.isRequesting	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^    let netRequestParam = {$/;"	property	line:390
+getValue	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^function getValue(state){$/;"	function	line:404
+getValue	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^function getValue(state){$/;"	function	line:404
+changeOrderState	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^function changeOrderState(dispatch){$/;"	function	line:410
+changeOrderState	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_order.js	/^function changeOrderState(dispatch){$/;"	function	line:410
+constructor	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	constructor(props) {$/;"	function	line:15
+state.orderStateId	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^		this.state = {$/;"	property	line:18
+state.Countdown	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^			orderStateId : null,$/;"	property	line:19
+state.expireFlag	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^			Countdown : 0,$/;"	property	line:20
+state.expireTime	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^			expireFlag : true,$/;"	property	line:21
+state.timer	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^			expireTime : '00:00:00',$/;"	property	line:22
+state.isAlipayChoosed	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^			timer : null,$/;"	property	line:23
+state.isPaidViewShow	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^			isAlipayChoosed: true,\/\/是否支付宝支付$/;"	property	line:24
+state.orderPrice	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^			isPaidViewShow: false,\/\/是否展示支付界面$/;"	property	line:25
+componentWillUnmount	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	componentWillUnmount() {$/;"	function	line:44
+componentDidMount	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	componentDidMount() {$/;"	function	line:48
+componentDidMount.orderId	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^		let parameter = {$/;"	property	line:49
+countdownTime	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	countdownTime(nS,type) {$/;"	function	line:55
+renderCountdownView	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	renderCountdownView(orderDetailData) {$/;"	function	line:80
+cancelOrderAction	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	cancelOrderAction() {$/;"	function	line:107
+deleteOrderAction	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	deleteOrderAction() {$/;"	function	line:111
+confirmOrderAction	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	confirmOrderAction() {$/;"	function	line:115
+confirmPay	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	confirmPay() {$/;"	function	line:119
+renderPaidView	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	renderPaidView() {$/;"	function	line:129
+chooseAlipayHandle	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	chooseAlipayHandle() {$/;"	function	line:160
+chooseWechatHandle	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	chooseWechatHandle() {$/;"	function	line:167
+renderIdentityCardView	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	renderIdentityCardView(orderDetailData) {$/;"	function	line:175
+renderWarehouseListView	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	renderWarehouseListView(goodsData){$/;"	function	line:187
+renderGoodsListView	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	renderGoodsListView(goodsList){$/;"	function	line:202
+renderGoodsCell	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	renderGoodsCell(goodsData,index,length) {$/;"	function	line:216
+renderFlowView	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	renderFlowView(orderDetailData) {$/;"	function	line:246
+switch	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^		switch (orderDetailData.order_status_id) {$/;"	function	line:247
+getAddress	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	getAddress(orderDetailData) {$/;"	function	line:296
+hasDataRender	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	hasDataRender() {$/;"	function	line:301
+render	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^	render () {$/;"	function	line:361
+let.isHeaderShow	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^		let headerParam = {$/;"	property	line:365
+let.headerName	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^      isHeaderShow: true,$/;"	property	line:366
+let.isBackShow	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^      headerName: '订单详情',$/;"	property	line:367
+let.isRequesting	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^    let netRequestParam = {$/;"	property	line:370
+getValue	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^function getValue(state){$/;"	function	line:382
+getValue	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^function getValue(state){$/;"	function	line:382
+changeOrderState	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^function changeOrderState(dispatch){$/;"	function	line:388
+changeOrderState	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_detailOrder.js	/^function changeOrderState(dispatch){$/;"	function	line:388
+constructor	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  constructor(props) {$/;"	function	line:15
+state.starts	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^    this.state = {$/;"	property	line:17
+renderStartView	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  renderStartView() {$/;"	function	line:31
+headerRightRender	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  headerRightRender() {$/;"	function	line:48
+changeComponent	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  changeComponent(change) {$/;"	function	line:56
+addGoodsImg	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  addGoodsImg() {$/;"	function	line:60
+getGoodsImg	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  getGoodsImg(files) {$/;"	function	line:72
+setState.goodsImgs	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^    this.setState = {$/;"	property	line:75
+delGoodsImg	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  delGoodsImg(index) {$/;"	function	line:80
+renderGoodsImgView	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  renderGoodsImgView() {$/;"	function	line:87
+hasDataRender	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  hasDataRender() {$/;"	function	line:130
+render	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^  render () {$/;"	function	line:159
+render.isHeaderShow	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^		let headerParam = {$/;"	property	line:163
+render.headerName	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^      isHeaderShow: true,$/;"	property	line:164
+render.isBackShow	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^      headerName: '评价晒单',$/;"	property	line:165
+let.isRequesting	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^    let netRequestParam = {$/;"	property	line:168
+let.isDataRequestSucc	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^      isRequesting: false,$/;"	property	line:169
+let.hasData	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^      isDataRequestSucc: true,$/;"	property	line:170
+mapStateToProps	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^function mapStateToProps(state){$/;"	function	line:183
+mapStateToProps	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^function mapStateToProps(state){$/;"	function	line:183
+mapDispatchToProps	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^function mapDispatchToProps(dispatch){$/;"	function	line:190
+mapDispatchToProps	/Users/holley/workspace/AppClient3.0/h5/containers/user/myOrders/User_OrderComment.js	/^function mapDispatchToProps(dispatch){$/;"	function	line:190
